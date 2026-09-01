@@ -121,12 +121,18 @@ The dataset contains information about hotel bookings, including hotel type, boo
 | 01 | Data Preprocessing Fundamentals | Completed |
 | 02 | Data Type Handling | Completed |
 | 03 | Missing Value Handling | Completed |
-| ... | ... | ... |
+| 04 | Numerical Data Analysis | Completed |
+| 05 | Categorical Data Analysis | Completed |
+| 06 | Statistical Analysis | Completed |
+| 07 | Distribution Analysis | Completed |
+| 08 | Outlier Analysis | Completed |
+| 09 | Correlation Analysis | Completed |
+| 10 | EDA Visualization | Completed |
+| 11 | Target Variable Analysis | Completed |
 | 12 | Business Insights | Completed |
 | 13 | EDA Report | Completed |
 | 14 | EDA Mini Challenge | Completed |
 | 15 | Mini Assessment | Completed |
-
 ---
 
 ## 🔍 EDA Workflow
